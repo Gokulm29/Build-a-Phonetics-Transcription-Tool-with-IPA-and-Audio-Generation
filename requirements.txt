@@ -1,0 +1,4 @@
+pronouncing
+epitran
+gtts
+gradio
